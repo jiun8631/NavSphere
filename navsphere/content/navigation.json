@@ -724,7 +724,7 @@
     },
     {
       "id": "8",
-      "title": "素材资源",
+      "title": "Material resources",
       "icon": "linecons-thumbs-up",
       "items": [],
       "subCategories": [
@@ -899,7 +899,9 @@
             }
           ]
         }
-      ]
+      ],
+      "description": "",
+      "enabled": true
     }
   ]
 }
