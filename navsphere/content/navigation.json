@@ -602,6 +602,14 @@
               "description": "在线美化SQL语句的工具，格式化方便阅读",
               "icon": "/assets/images/logos/sqlformat.ico",
               "enabled": true
+            },
+            {
+              "id": "1755327800842",
+              "title": "ProcessOn",
+              "href": "https://www.processon.com/",
+              "description": "ProcessOn是一款专业在线作图工具和知识分享社区，支持AI一键生成思维导图和流程图。可绘制甘特图、ER图、UML、网络拓扑图、电路图、平面图、鱼骨图、组织结构图、时间轴等多种图形，同时可实现人与人之间的实时协作和共享，提升团队工作效率。",
+              "icon": "/assets/favicon_1755327878718.png",
+              "enabled": true
             }
           ],
           "enabled": true
