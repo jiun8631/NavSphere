@@ -92,7 +92,7 @@ export function SearchBar({ onSearch, searchResults, searchQuery }: SearchBarPro
         <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
         <Input
           ref={inputRef}
-          placeholder="Search navigation..."
+          placeholder="搜索导航..."
           value={searchQuery}
           onChange={(e) => handleInputChange(e.target.value)}
           onFocus={() => setIsFocused(true)}
