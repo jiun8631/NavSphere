@@ -8,6 +8,6 @@ GITHUB_ID = "Ov23liPX8FXrmPrl1A4B"
 GITHUB_OWNER = "jiun8631"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://bar.is-an.ai/api/auth"
-NEXT_PUBLIC_API_URL="https://bar.is-an.ai/"
+NEXTAUTH_URL = "https://booo.dpdns.org/api/auth"
+NEXT_PUBLIC_API_URL="https://booo.dpdns.org/"
 
