@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://booo.dpdns.org/';  // 替換成你的網站域名
+  const baseUrl = 'https://booo.dpdns.org';  // 替換成你的網站域名
 
   return [
     {
