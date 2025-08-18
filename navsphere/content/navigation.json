@@ -780,6 +780,14 @@
               "description": "iLoveIMG是一款在线处理图片文件的网站。我们的服务完全免费，而且使用简便。网站的功能有：压缩图像文件、调整文件尺寸、裁剪文件，以及转换文件格式等！",
               "icon": "/assets/favicon_1755487712393.png",
               "enabled": true
+            },
+            {
+              "id": "1755487737863",
+              "title": "TinyPNG – Compress AVIF, WebP, PNG and JPEG images",
+              "href": "https://tinypng.com/",
+              "description": "更快的网站的免费在线图像优化器！减少AVIF、WEBP、JPEG和PNG图像的文件大小，同时保持图像质量。",
+              "icon": "/assets/favicon_1755487741739.ico",
+              "enabled": true
             }
           ]
         }
