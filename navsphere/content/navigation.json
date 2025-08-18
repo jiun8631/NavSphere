@@ -732,7 +732,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1755486215580",
+              "title": "Colourise and Restore your Old Photos &#8211; TwoWay AI Marketing",
+              "href": "https://twoway.ai/colourise-your-old-photos-with-ai",
+              "description": "利用智能算法给黑白图片上色，免费无广告",
+              "icon": "/assets/favicon_1755486223368.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
