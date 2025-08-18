@@ -740,6 +740,14 @@
               "description": "利用智能算法给黑白图片上色，免费无广告",
               "icon": "/assets/favicon_1755486223368.png",
               "enabled": true
+            },
+            {
+              "id": "1755486438070",
+              "title": "Bigjpg",
+              "href": "https://bigjpg.com/",
+              "description": "AI人工智能技术实现图片的无损放大",
+              "icon": "/assets/favicon_1755486443003.png",
+              "enabled": true
             }
           ]
         }
