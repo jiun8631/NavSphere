@@ -748,6 +748,14 @@
               "description": "AI人工智能技术实现图片的无损放大",
               "icon": "/assets/favicon_1755486443003.png",
               "enabled": true
+            },
+            {
+              "id": "1755486849186",
+              "title": "删除照片中的物体 | Magic Eraser by Magic Studio",
+              "href": "https://magicstudio.com/zh/magiceraser/",
+              "description": "只需几秒钟就能编辑图片，用画笔选择并用 AI 擦除图片上的物体、人物、文字、瑕疵和图案。无限制免费使用，无需注册。",
+              "icon": "/assets/favicon_1755486853159.png",
+              "enabled": true
             }
           ]
         }
