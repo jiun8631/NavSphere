@@ -764,6 +764,14 @@
               "description": "Squoosh是终极图像优化器，允许您在浏览器中使用不同的编解码器压缩和比较图像。",
               "icon": "/assets/favicon_1755487042491.ico",
               "enabled": true
+            },
+            {
+              "id": "1755487323334",
+              "title": "在线抠图软件_图片去除背景 | remove.bg – remove.bg",
+              "href": "https://www.remove.bg/zh",
+              "description": "remove.bg在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景。",
+              "icon": "/assets/favicon_1755487328275.png",
+              "enabled": true
             }
           ]
         }
