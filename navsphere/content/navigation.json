@@ -772,6 +772,14 @@
               "description": "remove.bg在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景。",
               "icon": "/assets/favicon_1755487328275.png",
               "enabled": true
+            },
+            {
+              "id": "1755487708343",
+              "title": "iLoveIMG | 图像文件在线编辑工具",
+              "href": "https://www.iloveimg.com/zh-cn",
+              "description": "iLoveIMG是一款在线处理图片文件的网站。我们的服务完全免费，而且使用简便。网站的功能有：压缩图像文件、调整文件尺寸、裁剪文件，以及转换文件格式等！",
+              "icon": "/assets/favicon_1755487712393.png",
+              "enabled": true
             }
           ]
         }
