@@ -788,6 +788,14 @@
               "description": "更快的网站的免费在线图像优化器！减少AVIF、WEBP、JPEG和PNG图像的文件大小，同时保持图像质量。",
               "icon": "/assets/favicon_1755487741739.ico",
               "enabled": true
+            },
+            {
+              "id": "1755487902021",
+              "title": "免费在线拼图工具：布局拼图 & 长图拼接 | 好用的拼图制作器",
+              "href": "https://img.ops-coffee.cn/",
+              "description": "一款强大的免费在线创意工具，不仅支持网格拼图与长图拼接，更能跨模式自由添加文字、箭头、方框和圆圈进行标注和创作。支持图片缩放、平移等精细化操作。纯客户端处理，绝对注重隐私，无需登录，高清无水印下载。",
+              "icon": "/assets/favicon_1755487905664.ico",
+              "enabled": true
             }
           ]
         }
