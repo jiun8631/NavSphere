@@ -725,6 +725,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "1bb633f5-bf54-4064-b462-79df3c563445",
+          "title": "圖片視頻",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
