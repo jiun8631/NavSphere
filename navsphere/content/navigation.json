@@ -756,6 +756,14 @@
               "description": "只需几秒钟就能编辑图片，用画笔选择并用 AI 擦除图片上的物体、人物、文字、瑕疵和图案。无限制免费使用，无需注册。",
               "icon": "/assets/favicon_1755486853159.png",
               "enabled": true
+            },
+            {
+              "id": "1755487038373",
+              "title": "Squoosh",
+              "href": "https://squoosh.app/",
+              "description": "Squoosh是终极图像优化器，允许您在浏览器中使用不同的编解码器压缩和比较图像。",
+              "icon": "/assets/favicon_1755487042491.ico",
+              "enabled": true
             }
           ]
         }
