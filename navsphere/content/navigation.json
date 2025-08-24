@@ -805,7 +805,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1756000781153",
+              "title": "Doclingo",
+              "href": "https://doclingo.cn/tw/",
+              "description": "寶藏網站來了！基於AI的專業文件翻譯工具，文獻閱讀也不在話下，效率瞬間翻倍Doclingo，絕無跑版亂碼圖表都在翻譯準確",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=doclingo.cn",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
