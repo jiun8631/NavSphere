@@ -798,6 +798,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "e9b62654-ce46-4824-a792-6ee3c1832342",
+          "title": "PDF工具",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
