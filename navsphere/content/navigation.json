@@ -100,6 +100,14 @@
           "description": "Enter a detailed description of what you want, and optionally what to exclude, to generate a high-quality image. Customize the size and quality of the image with advanced settings.",
           "icon": "/assets/favicon_1756130317835.png",
           "enabled": true
+        },
+        {
+          "id": "1756130493652",
+          "title": "開源項目圖片反推提示詞",
+          "href": "https://huggingface.co/spaces/fancyfeast/joy-caption-beta-one",
+          "description": "Upload an image and choose a caption type (e.g., descriptive, casual, product listing) to generate a caption. Customize the caption length and additional options like lighting and camera angle. Adj...",
+          "icon": "/assets/favicon_1756130509580.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
