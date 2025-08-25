@@ -108,6 +108,14 @@
           "description": "Upload an image and choose a caption type (e.g., descriptive, casual, product listing) to generate a caption. Customize the caption length and additional options like lighting and camera angle. Adj...",
           "icon": "/assets/favicon_1756130509580.png",
           "enabled": true
+        },
+        {
+          "id": "1756130623841",
+          "title": "開源項目圖片一鍵摳圖去背",
+          "href": "https://huggingface.co/spaces/briaai/BRIA-RMBG-2.0",
+          "description": "Upload an image or provide a URL to remove its background. Get the image with the background removed as a result.",
+          "icon": "/assets/favicon_1756130630588.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
