@@ -854,7 +854,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1757223161965",
+              "title": "Anna’s Archive: LibGen (Library)- 安娜的檔案",
+              "href": "https://tw.annas-archive.org/",
+              "description": "全球最大的開源開放數據圖書館。鏡像了Sci-Hub、Library Genesis、Z-Library等等。",
+              "icon": "/assets/favicon_1757223178922.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
