@@ -847,6 +847,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "1149cdb9-51e5-49c3-8cac-ff95a3f8cff2",
+          "title": "電子書站",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
