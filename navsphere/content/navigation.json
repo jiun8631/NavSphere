@@ -871,7 +871,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1757397572046",
+              "title": "Windows工具 - 免费网盘资源|在线观看|资源下载",
+              "href": "https://www.panlegepan.com/",
+              "description": "Windows工具 - 免费网盘资源|在线观看|资源下载 资源在线观看下载，最新windows工具资源,盘了个盘 聚合网盘搜索神器，提供 阿里云盘、夸克网盘、百度网盘、蓝奏网盘、迅雷网盘、天翼网盘、彩和网盘 等网盘资源搜索。更新快、资源全、速度快、免费。",
+              "icon": "/assets/favicon_1757397576175.ico",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
