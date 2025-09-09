@@ -864,6 +864,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "91bdd8d1-80c3-4543-8274-e3aa029aa53f",
+          "title": "盤搜索",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
