@@ -132,6 +132,14 @@
           "description": "在线免费使用，生成速度快、而且支持批量处理+打包下载。它处理边缘简单的物体效果非常好，如果是毛发、细丝等内容，也能很好地保留细节。",
           "icon": "/assets/favicon_1757858130920.png",
           "enabled": true
+        },
+        {
+          "id": "1757858253708",
+          "title": "改图神器 MagicQuill",
+          "href": "https://huggingface.co/spaces/AI4Editing/MagicQuill",
+          "description": "MagicQuill（神奇羽毛） 是一款智能交互式图像编辑系统，只需用画笔在图像上勾勒你想要的形状轮廓，它就会自动理解你的需求并进行对应的修改。MagicQuill 一共有三种画笔",
+          "icon": "/assets/favicon_1757858257204.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
