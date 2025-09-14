@@ -140,6 +140,14 @@
           "description": "MagicQuill（神奇羽毛） 是一款智能交互式图像编辑系统，只需用画笔在图像上勾勒你想要的形状轮廓，它就会自动理解你的需求并进行对应的修改。MagicQuill 一共有三种画笔",
           "icon": "/assets/favicon_1757858257204.png",
           "enabled": true
+        },
+        {
+          "id": "1757858366458",
+          "title": "AI 更衣 给人物换装",
+          "href": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
+          "description": "可以实现模特无痕换装。换装以后，不仅衣服能贴合人物原本的姿势，服装的样式、颜色、图案、文字等细节也能很好地保存下来，甚至还能自动匹配人物身形，不会出现 “头大身小” 的情况，换装效果非常自然。",
+          "icon": "/assets/favicon_1757858369899.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
