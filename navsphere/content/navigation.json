@@ -148,6 +148,14 @@
           "description": "可以实现模特无痕换装。换装以后，不仅衣服能贴合人物原本的姿势，服装的样式、颜色、图案、文字等细节也能很好地保存下来，甚至还能自动匹配人物身形，不会出现 “头大身小” 的情况，换装效果非常自然。",
           "icon": "/assets/favicon_1757858369899.png",
           "enabled": true
+        },
+        {
+          "id": "1757858536571",
+          "title": "UniPortrait 人像处理",
+          "href": "https://huggingface.co/spaces/Junjie96/UniPortrait",
+          "description": "UniPortrait 是一个多功能的人像处理框架，可以实现单人换脸、多人换脸和图像风格参考 3 项功能，目前可以在 Huggingface 上免费体验。",
+          "icon": "/assets/favicon_1757858545560.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
